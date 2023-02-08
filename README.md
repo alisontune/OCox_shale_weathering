@@ -1,5 +1,5 @@
 # OCox_shale_weathering
-Code for Tune et al () "In-situ observations of organic carbon oxidation in shale regolith and implications for bedrock weathering"
+Code for Tune et al (2023) "Deep root activity overprints weathering of petrogenic organic carbon in shale"
 
 The `Incubation_data.ipynb` file contains the raw data from the incubation experiments and code to produce the interpolated incubation rates used to standardize the results presented in the text.
 
