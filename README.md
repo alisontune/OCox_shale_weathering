@@ -4,6 +4,7 @@ Code for Tune et al (2023) "Deep root activity overprints weathering of petrogen
 [![DOI](https://zenodo.org/badge/571014262.svg)](https://zenodo.org/badge/latestdoi/571014262)
 
 ## Please cite the associated article as: 
+> Tune, A. K., Druhan, J. L., Lawrence, C. R., &amp; Rempe, D. M. (2023). Deep root activity overprints weathering of petrogenic organic carbon in shale. Earth and Planetary Science Letters, 607, 118048. https://doi.org/10.1016/j.epsl.2023.118048 
 
 ## ReadMe:
 The `Incubation_data.ipynb` file contains the raw data from the incubation experiments and code to produce the interpolated incubation rates used to standardize the results presented in the text.
